@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+}
+button{
+  background-color: black;
+  color: beige;
+  border: none;
+  padding: 8px;
+  border-radius: 8px;
+}
+button:hover{
+  background-color: rgb(0, 110, 255);
+}
+
+button:active{
+  background-color: rgb(0, 136, 255);
+}
